@@ -1,1 +1,1 @@
-# node-api-rest-books
+# node-api-rest-author-and-books
